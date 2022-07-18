@@ -34,7 +34,7 @@
         </ul>
 
         <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">courses</a>
+            <a class="nav-link dropdown-toggle text-light" href="#" role="button" data-bs-toggle="dropdown">courses</a>
             <ul class="dropdown-menu">
               <li><a class="dropdown-item" href="#">PWAD</a></li>
               <li><a class="dropdown-item" href="#">DDD</a></li>
@@ -50,7 +50,7 @@
   </nav> 
 
 <div class="container-fluid p-5 bg-primary text-white text-center">
-  <h1>Congent IT</h1>
+  <h1>About Us</h1>
   <p>Resize this responsive page to see the effect!</p> 
 </div>
   
